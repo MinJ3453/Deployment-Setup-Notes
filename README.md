@@ -9,4 +9,4 @@
 ## 게시 내용
 1. [FileZilla 연동](https://github.com/MinJ3453/Deployment-Setup-Notes/blob/main/file-zilla-connection.md) (2021)
 2. [MariaDB 설치 및 DBeaver연결](https://github.com/MinJ3453/Deployment-Setup-Notes/blob/main/mariadb-setup-dbeaver.md) (2023.07.29)
-3. [Node 배포하기, 리액트와 연결하기](https://github.com/MinJ3453/Deployment-Setup-Notes/blob/main/node-react-deployment.md) (2024.09.18) 
+3. [Node 배포하기, React와 연결하기](https://github.com/MinJ3453/Deployment-Setup-Notes/blob/main/node-react-deployment.md) (2024.09.18) 
