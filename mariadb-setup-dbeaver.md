@@ -3,11 +3,11 @@
 ### 1. MariaDB을 서버에 설치/ MariaDB 접근 권한이 있는 계정을 생성  
 <a id="mariadb-setup"></a>
 
-참고 : https://marsland.tistory.com/510
+- 참고 : https://marsland.tistory.com/510
 
 ### 2. DB 연결을 할 수 있는 3306포트 방화벽 오픈
 
-참고 : https://myjamong.tistory.com/7﻿
+- 참고 : https://myjamong.tistory.com/7﻿
 
 ### 3. DBeaver 연결
 - DBeaver을 다운 https://dbeaver.io/download/﻿
@@ -30,4 +30,4 @@
 
 ![image](https://github.com/user-attachments/assets/56d96a7e-2141-4193-b0ca-c5a6e43a6e63)
 
-참고 : https://nufyn.tistory.com/entry/DBeaver-설치-및-원격-MariaDB-SSH-연결Mac﻿
+- 참고 : https://nufyn.tistory.com/entry/DBeaver-설치-및-원격-MariaDB-SSH-연결Mac﻿
