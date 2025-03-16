@@ -1,4 +1,4 @@
-## MariaDB 설치 및 DBeaver연결 (2023.07.29)
+## Spring Boot 배포하기 (2024.12.15)
 
 ### 1. Spring Boot 배포 파일 준비  
 1. 터미널에서 명령어 입력한다  
